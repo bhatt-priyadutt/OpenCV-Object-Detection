@@ -1,0 +1,8 @@
+ """img = cv2.imread("Resources/national-highway-09-1486633114.jpg")"""
+        """ imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+        imgBlur = cv2.GaussianBlur(imgGray ,(7 ,7) ,1)
+        imgCanny = cv2.Canny(imgBlur,50,50)
+        cv2.imshow("video1", img)
+        #cv2.imshow("video2", imgGray)
+        #cv2.imshow("video3", imgBlur)
+        #cv2.imshow("video4", imgCanny)"""
